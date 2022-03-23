@@ -1,0 +1,19 @@
+{
+  "feedback": [
+    {
+      "text": "This product is awesome!",
+      "rating": 10,
+      "id": 1
+    },
+    {
+      "text": "I had some issues with this product.",
+      "rating": 5,
+      "id": 2
+    },
+    {
+      "text": "This product sucks!",
+      "rating": 1,
+      "id": 3
+    }
+  ]
+}
